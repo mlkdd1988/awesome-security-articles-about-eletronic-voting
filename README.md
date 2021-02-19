@@ -1,4 +1,4 @@
-# awesome-security-articles-eletronic-voting
+# awesome-security-articles-about-eletronic-voting
 
 Inspired by ["Awesome Security Articles"](https://github.com/irgoncalves/awesome-security-articles) 
 
